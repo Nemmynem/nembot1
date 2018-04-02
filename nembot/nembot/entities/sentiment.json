@@ -1,0 +1,39 @@
+{
+  "data" : {
+    "lookups" : [
+      "trait"
+    ],
+    "name" : "sentiment",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "sentiment",
+    "values" : [
+      {
+        "value" : " hate",
+        "expressions" : [
+          " hate"
+        ]
+      },
+      {
+        "value" : "gratefull ",
+        "expressions" : [
+          "gratefull "
+        ]
+      },
+      {
+        "value" : "love",
+        "expressions" : [
+          "love"
+        ]
+      },
+      {
+        "value" : "not happy",
+        "expressions" : [
+          "not happy"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

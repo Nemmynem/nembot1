@@ -1,0 +1,46 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "pizza_type",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "pizza_type",
+    "values" : [
+      {
+        "value" : "calzone",
+        "expressions" : [
+          "calzone"
+        ]
+      },
+      {
+        "value" : "cheese ",
+        "expressions" : [
+          "cheese "
+        ]
+      },
+      {
+        "value" : "margherita",
+        "expressions" : [
+          "margherita"
+        ]
+      },
+      {
+        "value" : "pepper",
+        "expressions" : [
+          "pepper"
+        ]
+      },
+      {
+        "value" : "pepperoni",
+        "expressions" : [
+          "pepperoni"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

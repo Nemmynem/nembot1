@@ -1,0 +1,28 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "message",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "message",
+    "values" : [
+      {
+        "value" : "I will be really late",
+        "expressions" : [
+          "I will be really late"
+        ]
+      },
+      {
+        "value" : "really late",
+        "expressions" : [
+          "late"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

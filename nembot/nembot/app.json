@@ -1,0 +1,8 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip nembot.zip nembot/app.json nembot/entities/*.json nembot/expressions.json",
+  "data" : {
+    "name" : "nembot",
+    "lang" : "en"
+  }
+}

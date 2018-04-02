@@ -1,0 +1,18 @@
+{
+  "data" : {
+    "lookups" : [
+      "trait"
+    ],
+    "name" : "greetings",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "greetings",
+    "values" : [
+      {
+        "value" : "true"
+      }
+    ],
+    "doc" : "{\"spanless\":true,\"short_desc\":\"captures hello, hi\",\"long_desc\":\"BETA - Binary trait entity that captures greeting intents (example: 'hello'). No need to highlight a specific part (or span) in the sentence.\",\"examples\":[{\"expression\":[\"\",\"hi\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"greetings\\\" : [ {\\n        \\\"value\\\" : \\\"true\\\"\\n      } ]\\n    }\"}]}",
+    "builtin" : true
+  }
+}
