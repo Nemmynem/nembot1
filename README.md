@@ -1,2 +1,2 @@
 # nembot
-bot
+chatbot
