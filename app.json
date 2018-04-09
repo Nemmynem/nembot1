@@ -1,0 +1,23 @@
+{
+  "name": "nembotweather",
+  "scripts": {
+  },
+  "env": {
+    "undefined": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
